@@ -1,0 +1,18 @@
+.conteudo {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    background-color: wheat;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: #282828;
+    color: wheat;
+    border-radius: 10px;
+}
+
+p {
+    width: 340px;
+    margin: auto;
+}
