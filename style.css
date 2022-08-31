@@ -1,18 +1,52 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .conteudo {
     margin: auto;
+    padding: 20px;
+    border: 2px solid black;
     width: 400px;
     text-align: center;
-    background-color: wheat;
+    background-color: rgba(211, 211, 211, 0.541);
     border-radius: 10px;
+}
+
+.header {
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    width: 440px;
+    height: 40px;
+    background-color: red;
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 1.2rem;
 }
 
 h1 {
     background-color: #282828;
-    color: wheat;
+    color: red;
     border-radius: 10px;
 }
 
 p {
     width: 340px;
     margin: auto;
+}
+
+.ordem-servico {
+    /* width: 80%; */
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: inherit;
+    text-align: start;
+    background-color: lightgray;
 }
